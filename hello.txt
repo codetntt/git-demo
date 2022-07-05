@@ -4,7 +4,7 @@ hello vue 1.1.2
 hello vue 1.1.3
 hello vue 1.1.3
 hello vue 1.1.3
-hello vue 1.1.1
+hello vue 1.1.1  分支me   在分支hot-fix上修改的文件
 hello vue 1.1.1
 hello vue 1.1.1
 hello vue 1.1.1
