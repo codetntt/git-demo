@@ -1,6 +1,6 @@
-hello vue 1.1.1
-hello vue 1.1.1
-hello vue 1.1.1
+hello vue 1.1.2
+hello vue 1.1.2
+hello vue 1.1.2
 hello vue 1.1.1
 hello vue 1.1.1
 hello vue 1.1.1
